@@ -2,6 +2,8 @@
 
 This is an application to retrieve information about an IP/domain/File Hash
 
+testing 
+
 The REST API takes in 2 query params, dataType and data.
 
 Valid input for each as follows: 
